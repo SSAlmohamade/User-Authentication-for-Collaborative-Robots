@@ -5,6 +5,10 @@ By Shurook S Almohamade
 
 This project is using KUKA iiwa 7 R800
 
+[watch video](https://youtube.com/shorts/eKd3mew6XWQ?feature=share)
+
+
+
 # (A) Requirement
 1. KUKA iiwa 7 R800 manipulator and control cabinet
 2. two PCs install ubuntu (named it as ubuntu and ROS machine)
