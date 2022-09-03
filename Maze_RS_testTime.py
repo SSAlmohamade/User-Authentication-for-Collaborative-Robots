@@ -112,11 +112,15 @@ def Create_profile_For_TestData(Data,userID,task):
 	# create profile 
 	T= time_stamp[len(time_stamp)-1]-time_stamp[0]
 	
+	#23 featuers
+	profile	=Feature_object.Creatprofile_test_selected_featuers23(task,T,TF_x_Feature,TF_y_Feature,TF_z_Feature,TF_M_Feature,TT_x_Feature,TT_y_Feature,TT_z_Feature,TT_M_Feature)
+	
+	
 	#34 featuers
 	#profile	=Feature_object.Creatprofile_test_selected_featuers34(task,T,TF_x_Feature,TF_y_Feature,TF_z_Feature,TF_M_Feature,TT_x_Feature,TT_y_Feature,TT_z_Feature,TT_M_Feature)
 	
 	#19 featuers
-	profile	=Feature_object.Creatprofile_test_selected_featuers19(task,T,TF_x_Feature,TF_y_Feature,TF_z_Feature,TF_M_Feature,TT_x_Feature,TT_y_Feature,TT_z_Feature,TT_M_Feature)
+	#profile	=Feature_object.Creatprofile_test_selected_featuers19(task,T,TF_x_Feature,TF_y_Feature,TF_z_Feature,TF_M_Feature,TT_x_Feature,TT_y_Feature,TT_z_Feature,TT_M_Feature)
 	
 	print 'profile',profile
 	return profile
