@@ -11,7 +11,7 @@ This project is using KUKA iiwa 7 R800
 
 # (A) Requirement
 1. KUKA iiwa 7 R800 manipulator and control cabinet
-2. two PCs install ubuntu (named it as ubuntu and ROS machine)
+2. PC install ubuntu 
 3. Ethernet switch/Router
 
 # (B) Install required libraries
