@@ -7,6 +7,7 @@ This project is using KUKA iiwa 7 R800
 
 [watch video](https://youtube.com/shorts/eKd3mew6XWQ?feature=share)
 
+For further information, please refer to our paper " [Behaviour-Based biometrics for continuous user authentication to industrial collaborative robots](https://link.springer.com/chapter/10.1007/978-3-030-69255-1_12)".
 
 
 # (A) Requirement
