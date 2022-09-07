@@ -26,4 +26,4 @@ Python 2.7 is used.
 6. csv
 7. math
 
-# (c) Repository hierarchy
+
