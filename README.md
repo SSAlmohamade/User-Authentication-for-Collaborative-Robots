@@ -9,7 +9,7 @@ This project is using KUKA iiwa 7 R800
 
 For further information, please refer to our paper " [Behaviour-Based biometrics for continuous user authentication to industrial collaborative robots](https://link.springer.com/chapter/10.1007/978-3-030-69255-1_12)".
 
-To download the dataset "Dataset for Collaborative Robotics"(https://data.mendeley.com/datasets/4fr33dkrjt})
+To download the dataset "Dataset for Collaborative Robotics"(https://data.mendeley.com/datasets/4fr33dkrjt)
 
 
 # (A) Requirement
